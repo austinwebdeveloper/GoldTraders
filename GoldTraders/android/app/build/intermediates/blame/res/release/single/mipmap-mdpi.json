@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/nueve/Desktop/GoldTraders/android/app/build/intermediates/res/merged/release/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/nueve/Desktop/GoldTraders/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nueve/Documents/myprojects/GoldTraders/android/app/build/intermediates/res/merged/release/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/nueve/Documents/myprojects/GoldTraders/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nueve/Documents/myprojects/GoldTraders/android/app/build/intermediates/res/merged/release/mipmap-mdpi/ic_launcher1.png",
+        "source": "/Users/nueve/Documents/myprojects/GoldTraders/android/app/src/main/res/mipmap-mdpi/ic_launcher1.png"
+    }
+]

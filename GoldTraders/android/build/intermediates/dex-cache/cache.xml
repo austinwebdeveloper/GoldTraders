@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/Documents/myprojects/GoldTraders/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af9665a44df26b4098e24c934c1109507845ef5e">
+        <dex dex="/Users/nueve/Documents/myprojects/GoldTraders/android/app/build/intermediates/pre-dexed/release/com.facebook.react-react-native-0.44.2_3e989d9de6b63960fa3e946c78595315fa975520.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/Documents/myprojects/GoldTraders/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/nueve/Documents/myprojects/GoldTraders/android/app/build/intermediates/pre-dexed/release/com.facebook.soloader-soloader-0.1.0_afdc07bdd10d27317d6dd541bb6500f68dd47505.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/nueve/Documents/myprojects/GoldTraders/android/app/build/intermediates/pre-dexed/release/okhttp-3.4.1_74d5ea53c13b5f63a537483ecd99d15e04667f99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/Documents/myprojects/GoldTraders/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/nueve/Documents/myprojects/GoldTraders/android/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.0.1_f7ca32320484833bb7eb549e4f26a23043c08279.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/Documents/myprojects/GoldTraders/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/nueve/Documents/myprojects/GoldTraders/android/app/build/intermediates/pre-dexed/release/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_44fdc0206ea66d10fdf256fe51c19af58789b8e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/Documents/myprojects/GoldTraders/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/nueve/Documents/myprojects/GoldTraders/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-fbcore-1.0.1_8d735d36480a3b047e10ff71c00fb9208905b3fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/Documents/myprojects/GoldTraders/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/nueve/Documents/myprojects/GoldTraders/android/app/build/intermediates/pre-dexed/release/internal_impl-23.0.1_b6a4bac19aa7f7822e07ad692c025066126f07d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/nueve/Documents/myprojects/GoldTraders/android/app/build/intermediates/pre-dexed/release/bolts-tasks-1.4.0_6e67561b9b104c2a460c41a787eba33e398e658f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/nueve/Documents/myprojects/GoldTraders/android/app/build/intermediates/pre-dexed/release/okhttp-ws-3.4.1_4b6cbcb2907540cb6c22d51b44f371b2b4e91c5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/nueve/Documents/myprojects/GoldTraders/android/app/build/intermediates/pre-dexed/release/support-annotations-23.0.1_f16fdf34f8aace5e3fe0823d706b25a3c1177800.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/nueve/Documents/myprojects/GoldTraders/android/app/build/intermediates/pre-dexed/release/okhttp-urlconnection-3.4.1_9b0062c1a404de962f0dc5a76a8e65a640bb8369.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/nueve/Documents/myprojects/GoldTraders/android/app/build/intermediates/pre-dexed/release/staticlayout-proxy-1.0_f666b5813322bdbd4cab747b88d010e6fbb3e379.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/Documents/myprojects/GoldTraders/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/nueve/Documents/myprojects/GoldTraders/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-base-1.0.1_7b9615ebb0b84d420bdcd11210d94f0b517f2710.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/Documents/myprojects/GoldTraders/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/nueve/Documents/myprojects/GoldTraders/android/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.0.1_34abb5d79ce7a09d73a9406663762b3a8f7726ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/Documents/myprojects/GoldTraders/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/nueve/Documents/myprojects/GoldTraders/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-fresco-1.0.1_95af960fcd5dd70353eba2d9e5c079ff5f33a110.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/Documents/myprojects/GoldTraders/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/nueve/Documents/myprojects/GoldTraders/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_67e9c7634da27f38d1f60173accf5954b028adb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/Documents/myprojects/GoldTraders/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/nueve/Documents/myprojects/GoldTraders/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-1.0.1_6a3697db7f8c8d80c77c1b98ab43c826ef50b34a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/nueve/Documents/myprojects/GoldTraders/android/app/build/intermediates/pre-dexed/release/jsr305-3.0.0_7dd5436ab11efc0305b76fc07e2a67d2bff1e40a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/Documents/myprojects/GoldTraders/android/app/build/intermediates/exploded-aar/GoldTraders/react-native-image-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="185debb713f05e6ae262b4167d7645dce64ca4cb">
+        <dex dex="/Users/nueve/Documents/myprojects/GoldTraders/android/app/build/intermediates/pre-dexed/debug/GoldTraders-react-native-image-picker-unspecified_aec3ac6ac9cfbd9b36207533bfbf08193935468c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/nueve/Documents/myprojects/GoldTraders/android/app/build/intermediates/pre-dexed/release/okio-1.9.0_4821b10fad652d7034191e4e3ce026dd43993379.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/Documents/myprojects/GoldTraders/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/nueve/Documents/myprojects/GoldTraders/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-drawee-1.0.1_5ecb598ce8d4efb0068cfee26161a4c1684562f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/nueve/Documents/myprojects/GoldTraders/android/app/build/intermediates/pre-dexed/release/javax.inject-1_87bd87b849d4e1fceb0c03f03300c205dc7c3498.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/Documents/myprojects/GoldTraders/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.2/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/nueve/Documents/myprojects/GoldTraders/android/app/build/intermediates/pre-dexed/release/infer-annotations-1.5_c8f6365e647c9980e6243041c9cc51bc0ca1787b.jar" />
+    </item>
+
+</items>
